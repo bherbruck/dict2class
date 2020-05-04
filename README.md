@@ -2,11 +2,10 @@
 
 [license-image]: https://img.shields.io/npm/l/make-coverage-badge.svg
 [license-url]: https://opensource.org/licenses/MIT
-[travis-image]: https://travis-ci.org/bherbruck/
-[travis-url]: https://travis-ci.org/bherbruck/
+
 
 [![License][license-image]][license-url]
-<!-- [![Build Status][travis-image]][travis-url] -->
+![Python package](https://github.com/bherbruck/dict2class/workflows/Python%20package/badge.svg)
 
  Create an object from a dict
 
