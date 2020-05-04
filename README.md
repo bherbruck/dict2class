@@ -13,6 +13,10 @@
 ```bash
 $ pip install git+https://github.com/bherbruck/dict2class
 ```
+or
+```bash
+$ pip install dict2class
+```
 
 <!-- ```bash
 $ pip install dict2class
