@@ -11,7 +11,7 @@ setuptools.setup(
     license='MIT',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/pypa/sampleproject',
+    url='https://github.com/bherbruck/dict2class',
     packages=['dict2class'],
     python_requires='>=3.6',
 )
